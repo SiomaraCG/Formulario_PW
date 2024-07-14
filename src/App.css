@@ -1,0 +1,24 @@
+/* Contenedor del formulario */
+.form-container {
+  align-items: center; /* Para centrar horizontalmente */
+  width: 100%;
+  max-width: 400px; /* Ajusta según tus necesidades */
+  margin:  auto; /* Margen superior e inferior */
+  padding: 20px; /* Espaciado interno para separar los elementos del borde */
+  border-radius: 8px; /* Bordes redondeados */
+  background-color: rgba(122, 120, 118, 0.178); 
+}
+
+.form-container h2 {
+  color: rgb(3, 3, 3);
+  text-align: center;
+}
+
+.form-container .MuiButton-root {
+  margin-top: 10px;
+  width: 100%;
+}
+
+
+
+
