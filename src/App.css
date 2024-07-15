@@ -1,11 +1,10 @@
-/* Contenedor del formulario */
 .form-container {
-  align-items: center; /* Para centrar horizontalmente */
+  align-items: center; 
   width: 100%;
-  max-width: 400px; /* Ajusta según tus necesidades */
-  margin:  auto; /* Margen superior e inferior */
-  padding: 20px; /* Espaciado interno para separar los elementos del borde */
-  border-radius: 8px; /* Bordes redondeados */
+  max-width: 400px; 
+  margin:  auto; 
+  padding: 20px; 
+  border-radius: 8px; 
   background-color: rgba(122, 120, 118, 0.178); 
 }
 
